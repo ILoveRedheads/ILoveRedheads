@@ -8,8 +8,6 @@
 💾 Also trying on making simple videogames on [Unity Game Engine](https://unity.com/)  
 📖 Want to try [C++](https://learn.microsoft.com/ru-ru/cpp/?view=msvc-170) and [Unreal Engine](https://www.unrealengine.com/en-US) some day  
 
-## My pet projects 🚧  
-[🐉 Game Of Thrones Wiki](https://github.com/ILoveRedheads/GOTWikiMVC) - .net 6.0, Ongoing project
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILoveRedheads)](https://github.com/ILoveRedheads/github-readme-stats)
