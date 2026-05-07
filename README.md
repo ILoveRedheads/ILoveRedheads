@@ -9,7 +9,4 @@
 📖 Want to try [C++](https://learn.microsoft.com/ru-ru/cpp/?view=msvc-170) and [Unreal Engine](https://www.unrealengine.com/en-US) some day  
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ILoveRedheads)](https://github.com/ILoveRedheads/github-readme-stats)
-
 [![codewars](https://www.codewars.com/users/ILoveRedheads/badges/large)](https://www.codewars.com/users/ILoveRedheads)
